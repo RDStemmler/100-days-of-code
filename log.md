@@ -21,12 +21,15 @@ I found the experience of actually building the game interesting. First, because
 **Link(s) to work**: [Battleship Game](https://codepen.io/bearence/full/GLPWxj)
 
 
-### Day 1: June 27, Monday
+### Day 2: April 26, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Discovered HTML canvas.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** : Today my biggest enemy hit - procrastination. I goofed off all day, so I ended up having to code late into the night to make up for it. I didn't finish my snake game, but I soon discovered that I bit off way more than I could chew. First, there were a number of concepts that I either didn't know or didn't sufficiently understand for the work at hand. Additionally, the tutorials I tried following were horrible; the coders just barrelled through without taking any time to explain what they were doing or why. 
+
+But that said, the day wasn't really all that disastrous, because I discovered HTML canvas. I'd never heard of it before! But I found a tutorial series that I'm going to follow and learn about it because it looks really promising. 
+
+I'm going to give the snake game one more try tomorrow; I found a codealong that seems designed for kids, so hopefully it's dumbed down enough for me. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. None today. I'll do better for tomorrow!
